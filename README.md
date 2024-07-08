@@ -1,5 +1,5 @@
 # glasses-of-mishra
 
 ```sh
-cargo run -- "Hello, World!"
+cargo run -- 'Hello, World!'
 ```
