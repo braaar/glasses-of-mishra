@@ -2,7 +2,7 @@
 .vscode
 
 # Rust
-target
+**/target
 
 # Generates files
 output.png
