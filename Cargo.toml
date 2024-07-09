@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "services/cli",
+]
+
+[workspace.dependencies]
+renderer = { path = "libs/renderer" }
